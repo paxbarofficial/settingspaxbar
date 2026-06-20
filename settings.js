@@ -1,5 +1,5 @@
 global.owner = ["6283830646778"]
-global.version = "𝟸.𝟶"
+global.version = "ᴠ𝟹.𝟶"
 global.session = "sessions"
 module.exports = { 
     NAMA_OWNER: "*ʙᴀʀᴍᴏᴅꜱꜱ ᴏꜰꜰɪᴄɪᴀʟ*",
